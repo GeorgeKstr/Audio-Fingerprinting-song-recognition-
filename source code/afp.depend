@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1525375721 source:c:\users\spark\desktop\afp\afp\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<sstream>
+	<dirent.h>
+	"decode.h"
+	"fourier.h"
+	"exportspectrum.h"
+	"fingerprint.h"
+	"database.h"
+	"record.h"
+
+1469913029 c:\users\spark\desktop\afp\afp\dependencies\fftw\include\fftw3.h
+	<stdio.h>
+	<stddef.h>
+
+1519733131 c:\users\spark\desktop\afp\afp\dependencies\mpg123\include\mpg123.h
+	<fmt123.h>
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+
+1519733131 c:\users\spark\desktop\afp\afp\dependencies\mpg123\include\fmt123.h
+
+1519733131 c:\users\spark\desktop\afp\afp\dependencies\mpg123\include\out123.h
+	<stddef.h>
+	<fmt123.h>
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\png.hpp
+	<png.h>
+	"config.hpp"
+	"types.hpp"
+	"error.hpp"
+	"color.hpp"
+	"palette.hpp"
+	"tRNS.hpp"
+	"packed_pixel.hpp"
+	"rgb_pixel.hpp"
+	"rgba_pixel.hpp"
+	"gray_pixel.hpp"
+	"ga_pixel.hpp"
+	"index_pixel.hpp"
+	"info_base.hpp"
+	"info.hpp"
+	"end_info.hpp"
+	"io_base.hpp"
+	"reader.hpp"
+	"writer.hpp"
+	"generator.hpp"
+	"consumer.hpp"
+	"pixel_buffer.hpp"
+	"solid_pixel_buffer.hpp"
+	"require_color_space.hpp"
+	"convert_color_space.hpp"
+	"image.hpp"
+
+1244148012 c:\users\spark\desktop\afp\afp\dependencies\libpng\include\png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1121653609 c:\users\spark\desktop\afp\afp\dependencies\zlib\include\zlib.h
+	"zconf.h"
+
+1121874026 c:\users\spark\desktop\afp\afp\dependencies\zlib\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244148012 c:\users\spark\desktop\afp\afp\dependencies\libpng\include\pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\config.hpp
+	<stdlib.h>
+	<endian.h>
+	<machine/endian.h>
+	<sys/_endian.h>
+	<machine/endian.h>
+	<sys/endian.h>
+	<sys/isa_defs.h>
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\types.hpp
+	<png.h>
+
+1524673767 c:\users\spark\desktop\afp\afp\dependencies\png++\error.hpp
+	<string.h>
+	<string>
+	<stdexcept>
+	<cerrno>
+	<cstdlib>
+	<cstring>
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\color.hpp
+	"types.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\palette.hpp
+	<vector>
+	"color.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\trns.hpp
+	<vector>
+	"color.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\packed_pixel.hpp
+	"types.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\rgb_pixel.hpp
+	"types.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\pixel_traits.hpp
+	<limits>
+	"types.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\rgba_pixel.hpp
+	"types.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\gray_pixel.hpp
+	"types.hpp"
+	"packed_pixel.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\ga_pixel.hpp
+	<limits>
+	"types.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\index_pixel.hpp
+	"types.hpp"
+	"packed_pixel.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\info_base.hpp
+	<cassert>
+	"error.hpp"
+	"types.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\info.hpp
+	<cassert>
+	"info_base.hpp"
+	"image_info.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\image_info.hpp
+	"types.hpp"
+	"palette.hpp"
+	"tRNS.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\end_info.hpp
+	"info_base.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\io_base.hpp
+	<cassert>
+	<cstdio>
+	<cstdarg>
+	"error.hpp"
+	"info.hpp"
+	"end_info.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\reader.hpp
+	<cassert>
+	"io_base.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\writer.hpp
+	<cassert>
+	"io_base.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\generator.hpp
+	<cassert>
+	<stdexcept>
+	<iostream>
+	<ostream>
+	"config.hpp"
+	"error.hpp"
+	"streaming_base.hpp"
+	"writer.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\streaming_base.hpp
+	<cassert>
+	"image_info.hpp"
+	"pixel_traits.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\consumer.hpp
+	<cassert>
+	<stdexcept>
+	<iostream>
+	<istream>
+	"config.hpp"
+	"error.hpp"
+	"streaming_base.hpp"
+	"reader.hpp"
+	"pixel_buffer.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\pixel_buffer.hpp
+	<cassert>
+	<cstddef>
+	<stdexcept>
+	<vector>
+	"packed_pixel.hpp"
+	"gray_pixel.hpp"
+	"index_pixel.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\solid_pixel_buffer.hpp
+	<cassert>
+	<cstddef>
+	<climits>
+	<stdexcept>
+	<vector>
+	"config.hpp"
+	"packed_pixel.hpp"
+	"gray_pixel.hpp"
+	"index_pixel.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\require_color_space.hpp
+	"error.hpp"
+	"rgb_pixel.hpp"
+	"rgba_pixel.hpp"
+	"gray_pixel.hpp"
+	"ga_pixel.hpp"
+	"index_pixel.hpp"
+	"io_base.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\convert_color_space.hpp
+	"error.hpp"
+	"rgb_pixel.hpp"
+	"rgba_pixel.hpp"
+	"gray_pixel.hpp"
+	"ga_pixel.hpp"
+	"index_pixel.hpp"
+	"reader.hpp"
+	"writer.hpp"
+
+1445805765 c:\users\spark\desktop\afp\afp\dependencies\png++\image.hpp
+	<fstream>
+	"pixel_buffer.hpp"
+	"generator.hpp"
+	"consumer.hpp"
+	"convert_color_space.hpp"
+
+1525338049 source:c:\users\spark\desktop\afp\afp\decode.cpp
+	"decode.h"
+	<iostream>
+
+1525149747 c:\users\spark\desktop\afp\afp\decode.h
+	<string>
+	<sstream>
+	<mpg123.h>
+	<out123.h>
+
+1525149803 source:c:\users\spark\desktop\afp\afp\exportspectrum.cpp
+	"exportspectrum.h"
+
+1525120597 c:\users\spark\desktop\afp\afp\exportspectrum.h
+	<cmath>
+	<png.hpp>
+
+1525159028 source:c:\users\spark\desktop\afp\afp\fourier.cpp
+	"fourier.h"
+
+1525159010 c:\users\spark\desktop\afp\afp\fourier.h
+	<math.h>
+	<cmath>
+	<fftw3.h>
+
+1525362345 source:c:\users\spark\desktop\afp\afp\fingerprint.cpp
+	"fingerprint.h"
+
+1525331063 c:\users\spark\desktop\afp\afp\fingerprint.h
+	<iostream>
+	<string>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1525374162 source:c:\users\spark\desktop\afp\afp\database.cpp
+	"database.h"
+	<iostream>
+
+1525373986 c:\users\spark\desktop\afp\afp\database.h
+	<fstream>
+	<string>
+	<cmath>
+	<vector>
+	<unordered_map>
+	<algorithm>
+
+1525149786 source:c:\users\spark\desktop\afp\afp\record.cpp
+	"record.h"
+
+1525149791 c:\users\spark\desktop\afp\afp\record.h
+	<windows.h>
+	<mmsystem.h>
+
+1508184291 c:\users\spark\desktop\afp\afp\dependencies\dirent\dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
